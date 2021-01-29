@@ -1,0 +1,18 @@
+{
+    "routes": [
+        {
+            "component": "adminComponent",
+            "path": "admin"
+        },
+        {
+            "path": "''",
+            "redirectTo": "admin",
+            "pathMatch": "full",
+            "default": true
+        },
+        {
+            "path": "**",
+            "component": "PageNotFoundComponent"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "displayName": "adminCrud",
+    "appName": "admincrud",
+    "description": "First UI on the platform",
+    "lastModified": "2021-01-23T08:46:03.407Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "classic",
+    "templateName": "blank",
+    "createDate": "2021-01-23T08:46:00.164Z",
+    "analyticsId": "dbd94d4d-4a95-7a0b-3f29-f894e4dfaf21",
+    "createdStudioVersion": "7.5.1"
+}
